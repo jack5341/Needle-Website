@@ -1377,7 +1377,6 @@ li.footer_list:hover{
     }
     .about .about-text .main-heading {
         font-size: 2rem;
-        margin-top: 7rem !important;
         font-weight: 600;
     }
 
@@ -1396,7 +1395,10 @@ li.footer_list:hover{
     #about {
         padding-top: 55px;
     }
-
+    
+    .banner-2{
+        margin-top: -22rem !important;
+    }
     /****************HOME SECTION***********/
     .home .content-area{
         position: inherit;
@@ -1407,10 +1409,13 @@ li.footer_list:hover{
         -ms-transform: translate(0,-100%);
         transform: translate(0,-100%);
     }
-
+    
     .home .text-home .main-heading {
         font-size: 45px;
+        margin-top: -14rem;
     }
+
+    
 
     .home .text-home .sub-heading {
         font-size: 23px;
@@ -1433,7 +1438,11 @@ li.footer_list:hover{
 
     .parallax-color3{
         background-attachment: unset;
-        min-height: 26rem;
+        min-height: 0px;
+    }
+
+    #banner-3{
+        margin-top: -7rem;
     }
 
     .parallax-color2{
