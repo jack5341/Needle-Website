@@ -1376,8 +1376,9 @@ li.footer_list:hover{
         width: 361px;
     }
     .about .about-text .main-heading {
+        font-size: 2rem;
+        margin-top: 7rem !important;
         font-weight: 600;
-        font-size: 1.8rem;
     }
 
     .owl-testimonial .item .heading {
@@ -1432,7 +1433,7 @@ li.footer_list:hover{
 
     .parallax-color3{
         background-attachment: unset;
-        /*min-height: 413px;*/
+        min-height: 26rem;
     }
 
     .parallax-color2{
